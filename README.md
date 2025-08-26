@@ -16,17 +16,18 @@ I build secure embedded systems and research attacks/defenses across SATCOM and 
 - **Linux & Networking:** Ubuntu Core, tcpdump, Wireshark, aircrack-ng, VLANs, OSPF/EIGRP/RIP
 - **IoT:** MQTT, AWS IoT, IDS/IPS concepts
 - **Scripting:** Python, Bash
-- **Hardware:** RF test equipment, WS2812/Neopixel LEDs, custom PCBs (KiCad basics)
+- **Hardware:** Arduino Uno, Arduino Nano, Raspberry Pi, HackRf One, ESP32, Arm
 
 ### ⭐ Selected Projects
-- **SATCOM Security Lab** — testbed covering Starlink/Hughes/MissionLINK; vulnerabilities & mitigations
-- **Color-Coded Wi‑Fi Identifier** — embedded app that maps signal quality to LED colors (ESP32/RPi)
-- **VFR Map Display** — wall‑mounted FAA sectional with **WS2812 LEDs** + RPi controller
+- **Color-Coded Wi‑Fi Identifier** 
+- **VFR Map Display** 
+- **SmartSync**
+- **Autonomous Vehicle**
 
 
 ### 📫 Get in touch
-- Email: **Adityausj@gmail.com** _(replace with your email)_
-- LinkedIn: **www.linkedin.com/in/aditya6549** _(replace)_
+- Email: **Adityausj@gmail.com**
+- LinkedIn: **www.linkedin.com/in/aditya6549** 
 
 ---
 
