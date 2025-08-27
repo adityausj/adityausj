@@ -19,7 +19,7 @@ I build secure embedded systems and research attacks/defenses across SATCOM and 
 - **Hardware:** Arduino Uno, Arduino Nano, Raspberry Pi, HackRf One, ESP32, Arm
 
 ### ⭐ Selected Projects
-- **Color-Coded Wi‑Fi Identifier** 
+- [**Color-Coded Wi‑Fi Identifier**](https://github.com/adityausj/Color-Coded-Wi-Fi-Identifier)
 - **VFR Map Display** 
 - **SmartSync**
 - **Autonomous Vehicle**
