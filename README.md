@@ -16,7 +16,7 @@ I build secure embedded systems and research attacks/defenses across SATCOM and 
 - **Linux & Networking:** Ubuntu Core, tcpdump, Wireshark, aircrack-ng, VLANs, OSPF/EIGRP/RIP
 - **IoT:** MQTT, AWS IoT, IDS/IPS concepts
 - **Scripting:** Python, Bash
-- **Hardware:** Arduino Uno, Arduino Nano, Raspberry Pi, HackRf One, ESP32, Arm
+- **Hardware:** Arduino Uno, Arduino Nano, Raspberry Pi, HackRf One, ESP32
 
 ### ⭐ Selected Projects
 - [**Color-Coded Wi‑Fi Identifier**](https://github.com/adityausj/Color-Coded-Wi-Fi-Identifier)
