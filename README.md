@@ -32,6 +32,6 @@ I build secure embedded systems and research attacks/defenses across SATCOM and 
 ---
 
 ### 💼 What I’m looking for (2025–2026)
-Internships and new‑grad/OPT roles in **embedded systems, IoT, RF, and secure edge devices**. Open to teams working on automotive/AV, or industrial IoT.
+Internships and new‑grad/OPT roles in **embedded systems, IoT, Satcom**. Open to teams working on automotive/AV, or industrial IoT.
 
 > If my work looks relevant, I’d love to chat!
