@@ -8,20 +8,17 @@ I build secure embedded systems and research attacks/defenses across SATCOM and 
 
 ### 🔭 Current Work
 - Researching **edge-device & SATCOM security** (Starlink, Hughes, MissionLINK) 
-- **RF experiments** with HackRF One (capture/replay, spectrum analysis)
-- **CAN bus** sniffing & ECU spoofing simulations for AV control system security
+- Researching on network protocols with UAV 
 
 ### 🧰 Tech I use
 - **Embedded:** C/C++, Arduino, PlatformIO, Zephyr (beginner), FreeRTOS (beginner)
 - **Linux & Networking:** Ubuntu Core, tcpdump, Wireshark, aircrack-ng, VLANs, OSPF/EIGRP/RIP
 - **IoT:** MQTT, AWS IoT, IDS/IPS concepts
-- **Scripting:** Python, Bash
-- **Hardware:** Arduino Uno, Arduino Nano, Raspberry Pi, HackRf One, ESP32
+- **Embedded Platforms**: Raspberry Pi, ESP32, Arduino UNO, STM32
 
 ### ⭐ Selected Projects
 - [**Color-Coded Wi‑Fi Identifier**](https://github.com/adityausj/Color-Coded-Wi-Fi-Identifier)
 - [**SmartSync**](https://github.com/adityausj/SmartSync)
-
 
 
 ### 📫 Get in touch
