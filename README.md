@@ -20,9 +20,8 @@ I build secure embedded systems and research attacks/defenses across SATCOM and 
 
 ### ⭐ Selected Projects
 - [**Color-Coded Wi‑Fi Identifier**](https://github.com/adityausj/Color-Coded-Wi-Fi-Identifier)
-- **VFR Map Display** 
-- **SmartSync**
-- **Autonomous Vehicle**
+- [**SmartSync**](https://github.com/adityausj/SmartSync)
+
 
 
 ### 📫 Get in touch
