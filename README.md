@@ -10,9 +10,9 @@ I build secure embedded systems and research attacks/defenses across SATCOM and 
 - Researching **edge-device & SATCOM security** (Starlink, Hughes, MissionLINK) 
 - Researching on network protocols with UAV 
 
-### 🧰 Tech I use
+### 🧰 Tech I Know
 - **Embedded:** C/C++, Arduino, PlatformIO, Zephyr (beginner), FreeRTOS (beginner)
-- **Linux & Networking:** Ubuntu Core, tcpdump, Wireshark, aircrack-ng, VLANs, OSPF/EIGRP/RIP
+- **Networking & Protocols**: MQTT, ESP-NOW, TCP/IP, CAN, LIN, SPI, I2C
 - **IoT:** MQTT, AWS IoT, IDS/IPS concepts
 - **Embedded Platforms**: Raspberry Pi, ESP32, Arduino UNO, STM32
 
@@ -23,7 +23,7 @@ I build secure embedded systems and research attacks/defenses across SATCOM and 
 
 ### 📫 Get in touch
 - Email: **Adityausj@gmail.com**
-- LinkedIn: **www.linkedin.com/in/aditya6549** 
+- LinkedIn: [**Aditya_Makwana**](www.linkedin.com/in/aditya6549)
 
 ---
 
