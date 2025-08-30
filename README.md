@@ -23,7 +23,7 @@ I build secure embedded systems and research attacks/defenses across SATCOM and 
 
 ### 📫 Get in touch
 - Email: **Adityausj@gmail.com**
-- LinkedIn: [**Aditya_Makwana**](www.linkedin.com/in/aditya6549)
+- LinkedIn: [**Aditya_Makwana**](https://www.linkedin.com/in/aditya6549/)
 
 ---
 
